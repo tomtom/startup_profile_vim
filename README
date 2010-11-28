@@ -1,5 +1,3 @@
-*startup_profile.txt*  Profile vim startup
-
 With the introduction of the autoload directory, plugins were often 
 split into several separate files. The downside is that it isn't always 
 that obvious which files are actually loaded on startup.

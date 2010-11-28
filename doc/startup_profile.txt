@@ -72,7 +72,7 @@ please make sure, you have the current version of vimball
 Add "runtime macros/startup_profile.vim" to your |vimrc| file but see 
 above.
 
-Also available via git: http://github.com/tomtom/vimtlib/
+Also available via git: http://github.com/tomtom/startup_profile_vim/
 
 
 ========================================================================
