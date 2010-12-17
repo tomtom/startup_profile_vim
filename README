@@ -8,6 +8,9 @@ were loaded but it doesn't tell you much about the impact of that script
 on startup time. So what you actually want is a list of the scripts 
 including certain indicators of how long it took to process a script.
 
+From version 7.3 on, vim has a |--startuptime| command-line option that can be 
+used to achieve something similar.
+
 This macro creates a CSV file, which included the following information:
 
     * Number of the script
