@@ -3,8 +3,8 @@
 " @GIT:         http://github.com/tomtom/startup_profile_vim/
 " @License:     GPL (see http://www.gnu.org/licenses/gpl.txt)
 " @Created:     2010-01-04.
-" @Last Change: 2010-10-24.
-" @Revision:    26
+" @Last Change: 25-Dec-2011.
+" @Revision:    27
 " GetLatestVimScripts: 0 0 startup_profile.vim
 
 let s:save_cpo = &cpo
